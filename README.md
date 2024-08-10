@@ -67,4 +67,4 @@ The cascades of classifiers are formed from the features obtained by the gentle 
 
 # Output :
 
-![OutPut](https://raw.githubusercontent.com/JagadeeshAjjada/AI_Face_Detection/Media/output.png)
+![OutPut](https://raw.githubusercontent.com/JagadeeshAjjada/AI_Face_Detection/master/Media/output.png)
